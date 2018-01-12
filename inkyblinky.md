@@ -21,7 +21,7 @@ The Mini Black Hat is what we will use to stack the the InkypHAT and Blinkt modu
 
 You *can* solder the headers in whatever inversion you like, as long as the corresponding headers on the pHATS are compatible. For my project, I decided to use a female header on the bottom stack, as my Pi Zero already had a male header on the back
 
-![soldering the black hat](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-4.jpeg "soldering the black hat")
+![soldering the black hat](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-4.jpeg?raw=true "soldering the black hat")
 
 1. First, pop the first header into the the Black Hat Hacker, making sure it is perpendicular and flush to the board
 2. Then, tape up the left side of the header with some electrical tape, making sure it is securely held in place
@@ -29,12 +29,12 @@ You *can* solder the headers in whatever inversion you like, as long as the corr
 4. Carefully solder the pins, making sure the solder doesn't bridge! (A full guide to soldering can be found [here](https://learn.pimoroni.com/tutorial/sandyj/the-ultimate-guide-to-soldering))
 5. Repeat this for all three headers on the Black Hat Hacker
 
-![soldered black hat](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-3.jpeg "soldered the black hat")
+![soldered black hat](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-3.jpeg?raw=true "soldered the black hat")
 
 ### step 2 - soldering the pi
 For this project **don't get the Pre-Soldered Pi Zero H or Zero WH**, as we will need to reverse-mount the headers.
 
-![soldering the pi](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-5.jpg "soldering the pi")
+![soldering the pi](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-5.jpg?raw=true "soldering the pi")
 
 1. Pop the *correctly gendered header* into the back of the Pi Zero, and tape it up as before
 2. Carefully solder up the pins - and be extra careful around the middle, making sure not to de-solder any of the components on the board its self
@@ -42,12 +42,12 @@ For this project **don't get the Pre-Soldered Pi Zero H or Zero WH**, as we will
 ## building the plate
 ### step 3 
 
-![building the plate](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-6.jpg "building the plate")
+![building the plate](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-6.jpg?raw=true "building the plate")
 
 1. Once everything is soldered and checked for no bridging, pop the pHATs and Pis in as shown above
 2. You can of course swap any components out, or use a pHATStack for more pHATs, but make sure they are compatible! Check here -> https://pinout.xyz/phatstack to make sure your pHAT don't clash with any pins
 
-![the plate](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-7.jpg "the plate")
+![the plate](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-7.jpg?raw=true "the plate")
 
 ## powering the pi
 ### step 4 - Setting up the OS
@@ -64,10 +64,10 @@ For this project **don't get the Pre-Soldered Pi Zero H or Zero WH**, as we will
 2. Answer yes (y) to all the prompts, and let the libraries install
 3. Once they have finished cd into the Pimoroni folder (`cd Pimoroni`) and have a play with the examples!
 
-![the inkyblinky](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-9.jpeg "the inkyblinky")
+![the inkyblinky](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-9.jpeg?raw=true "the inkyblinky")
 
 ### Step 6 - name badge and lights
 1. cd into the inkyphat examples folder (`cd inkyphat/examples`) and run the Name badge example (`sudo python3 hello.py [your_name_here]`)
 2. cd into the blinkt examples folder (`cd`, then `cd Pimoroni/blinkt/examples`) and run any of the examples you like (for example, `sudo python3 rainbow.py`)
 
-![final shot](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-10.jpg "final shot")
+![final shot](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-10.jpg?raw=true "final shot")
