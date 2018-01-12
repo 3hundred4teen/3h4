@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: [3hundred4teen]
 description: [a blog by @electric-blue-green]
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
