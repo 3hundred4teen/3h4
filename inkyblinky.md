@@ -13,7 +13,7 @@ This is a very short tutorial/guide of a very simple Raspberry Pi project, inspi
 - 1* Female 40-pin header
 - Soldering tools
 
-![things you need](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-1.jpg "things you need")
+![things you need](https://github.com/3hundred4teen/3hundred4teen/blob/master/inkyblinky-1.jpg?raw=true "things you need")
 
 ## soldering the stuff
 ### step 1 - soldering the black hat
