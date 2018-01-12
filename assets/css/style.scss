@@ -1,4 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";h1{color: #FF0000;}
+@import "{{ site.theme }}";
+h1 {
+    color: lightblue;
+}
