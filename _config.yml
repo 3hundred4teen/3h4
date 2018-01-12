@@ -8,11 +8,11 @@ defaults:
       type: posts
     values:
       author_profile: true
+      
 docs_list_title: Pages
 docs:
-
 - title: About
-  url: introduction.html
+  url: index.md
 
 - title: Configuration
   url: configuration.html
