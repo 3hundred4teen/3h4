@@ -1,5 +1,5 @@
 # Inky Blinky
-
+*3 minute read*
 This is a very short tutorial/guide of a very simple Raspberry Pi project, inspired by Sandy's guides over at Pimoroni!
 
 ## Things You Need
