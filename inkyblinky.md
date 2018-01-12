@@ -7,7 +7,7 @@ This is a very short tutorial/guide of a very simple Raspberry Pi project, inspi
 ## things you need
 - Raspberry Pi Zero/Zero W
 - InkypHAT
-- Blinkt!
+- Blinkt
 - Mini Black Hat Hack3r
 - 3* Male 40-pin header
 - 1* Female 40-pin header
