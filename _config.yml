@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: [3hundred4teen]
-description: [a blog by @electric-blue-green]
+title: 3h4
+description: a blog by @electric-blue-green
 defaults:
   # _posts
   - scope:
@@ -8,3 +8,14 @@ defaults:
       type: posts
     values:
       author_profile: true
+docs_list_title: Pages
+docs:
+
+- title: About
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
