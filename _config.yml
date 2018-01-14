@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: 3h4
-description: a blog by @electric-blue-green
+description: a blog by @electric-blue-green \n Raspberry Pi | Arduino | Photography | Music | Theatre
 defaults:
   # _posts
   - scope:
