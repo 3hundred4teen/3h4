@@ -15,4 +15,4 @@ I'm 16, from the UK, and currently studying Maths and Further Maths, Physics, an
 - Github: @electric-blue-green
 
 ## Blog Posts
-[![InkyBlinkyProject](https://raw.githubusercontent.com/3hundred4teen/3hundred4teen/master/Screen%20Shot%202018-01-12%20at%2022.10.10.png "InkyBlinky")](http://3h4.uk/inkyblinky)
+[![InkyBlinkyProject](https://raw.githubusercontent.com/3hundred4teen/3hundred4teen/master/assets/images/Screen%20Shot%202018-01-12%20at%2022.10.10.png "InkyBlinky")](http://3h4.uk/inkyblinky)
