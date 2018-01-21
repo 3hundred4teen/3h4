@@ -6,7 +6,7 @@ If you'd like to use these images in any way, contact me here !!! to ask for ful
 
 ## The Wave // Southbank
 
-[![The Wave // Southbank] (https://raw.githubusercontent.com/3hundred4teen/3hundred4teen/assets/images/Lumiere/1-wave.jpg?raw=true "InkyBlinky")](http://3h4.uk/the-wave-southbank)
+[![The Wave // Southbank] (https://raw.githubusercontent.com/3hundred4teen/3hundred4teen/assets/images/Lumiere/1-wave.jpg?raw=true "The Wave//Southbank")](http://3h4.uk/the-wave-southbank)
 
 ## Light of the Spirit
 
