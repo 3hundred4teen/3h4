@@ -10,6 +10,7 @@ If you'd like to use these images in any way, contact me here !!! to ask for ful
 
 
 ## Light of the Spirit
+![Light of the Spirit](https://github.com/3hundred4teen/3hundred4teen/blob/master/assets/images/lumiere LC/lumiere-18.jpg?raw=true "Light of the Spirit")
 
 ## The Rose // Fluid
 
