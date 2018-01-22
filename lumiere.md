@@ -19,4 +19,4 @@ If you'd like to use these images in any way, contact me here !!! to ask for ful
 [![Harmonic Portal](https://github.com/3hundred4teen/3hundred4teen/blob/master/assets/images/Lumiere/4-portal.jpg?raw=true "The Wave//Southbank")](http://3h4.uk/harmonic-portal)
 
 ## Spectral
-![xxx](https://github.com/3hundred4teen/3hundred4teen/blob/master/xxx?raw=true "xxx")
+[![Spectral](https://github.com/3hundred4teen/3hundred4teen/blob/master/assets/images/Lumiere/5-spectral.jpg?raw=true "Spectral")](http://3h4.uk/spectral)
