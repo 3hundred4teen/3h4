@@ -9,7 +9,7 @@ I'm 16, from the UK, and currently studying Maths and Further Maths, Physics, an
 
 ### Contact me
 
-- Discord: ash#7793
+- Discord: ash#0001
 - Twitter: @local_dreaming
 - Email: tejb@outlook.com
 - Github: @electric-blue-green
