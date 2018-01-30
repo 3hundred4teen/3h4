@@ -10,9 +10,9 @@ I'm 16, from the UK, and currently studying Maths and Further Maths, Physics, an
 ### Contact me
 
 - Discord: ash#0001
-- Twitter: @local_dreaming
+- Twitter: [@local_dreaming](https://twitter.com/local_dreaming)
 - Email: tejb@outlook.com
-- Github: @electric-blue-green
+- Github: [@electric-blue-green](http://github.com/electric-blue-green)
 
 ## Projects
 ### Raspberry Pi

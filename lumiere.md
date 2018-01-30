@@ -6,15 +6,6 @@ If you'd like to use these images in any way, contact me here !!! to ask for ful
 
 ## The Wave // Southbank
 
-<<<<<<< HEAD
-## Light of the Spirit
-
-## The Rose // Fluid
-
-## Harmonic Portal
-
-## Spectral
-=======
 [![The Wave //  Southbank](https://github.com/3hundred4teen/3hundred4teen/blob/master/assets/images/Lumiere/1-wave.jpg?raw=true "The Wave//Southbank")](http://3h4.uk/the-wave-southbank)
 
 
