@@ -14,11 +14,11 @@ The faffy way I did it: creating a 212x104 image in Illustrator, and painstaking
 
 ## Creating the holder
 
-After asking around (on the Gadgetoid server)[https://discordapp.com/invite/8wRN4WB], I found QCAD to be my best choice of CAD software. After two hours of measuring, re-measuring, and asking people for the actual sizes (and restarting the app every 15 mins on free trial), I had a design, for 3mm acrylic!
+After asking around [on the Gadgetoid server](https://discordapp.com/invite/8wRN4WB), I found QCAD to be my best choice of CAD software. After two hours of measuring, re-measuring, and asking people for the actual sizes (and restarting the app every 15 mins on free trial), I had a design, for 3mm acrylic!
 
 ![CAD design](https://raw.githubusercontent.com/3hundred4teen/3hundred4teen/master/assets/images/inky-holder/caddesign.png "InkyBadge")
 
-The only issue is, I had nowhere to laser cut it. (Sandy)[https://twitter.com/sandyjmacdonald] (another Pimoroni pirate) came to my rescue, and offered to have it cut out and shipped *ad gratis*. After some improvements (because I couldn't actually export the proper file type), they were cut and shipped, and they turned out beautiful!
+The only issue is, I had nowhere to laser cut it. [Sandy](https://twitter.com/sandyjmacdonald) (another Pimoroni pirate) came to my rescue, and offered to have it cut out and shipped *ad gratis*. After some improvements (because I couldn't actually export the proper file type), they were cut and shipped, and they turned out beautiful!
 
 So after hacking the `logo.py` script example, I popped the image onto the InkypHAT, screwed in the acryl plates, and this was the result!
 
