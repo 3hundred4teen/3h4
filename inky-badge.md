@@ -8,7 +8,7 @@ The process of getting a three-color image to correctly display on the InkypHAT 
 
 The proper way: head over and download the [InkypHAT Repo](https://github.com/pimoroni/inky-phat). In `tools` is a nifty .gpl file that has the color palette for [Gimp](https://www.gimp.org/). On Gimp, head to Image -> Mode -> Indexed. Then open the pane located at Windows -> Dockable Dialogues -> Palettes. Click the little leftwards arrow toggle on the panel and (this took me 2 hours to find) hover over Palette Menu, and click on Import Palette.... Select the InkypHAT gpl file and you are away
 
-The faffy way I did it: creating a 212x104 image in Illustrator, and painstakingly, pixel-by-pixel ensuring it was only three colors, (255, 255, 255), (0, 0, 0), or (255, 0, 0). This took me several hours. Then I had to invert Black and Red. This was the result:
+The faffy way I did it: creating a 212x104 image in Illustrator, and painstakingly, pixel-by-pixel ensuring it was only three colors, (255, 255, 255), (0, 0, 0), or (255, 0, 0). The QR code links to http://3h4.uk, and the name is a photoshopped picture of my own handwriting. This took me several hours. Then I had to invert Black and Red. This was the result:
 
 ![InkyBadge](https://raw.githubusercontent.com/3hundred4teen/3hundred4teen/master/assets/images/inky-holder/badge.png "InkyBadge")
 
